@@ -2,4 +2,4 @@ name: flutter-feature
 description: Create a feature in a feature driven flutter project. Path for the feature will be ./lib/feature/name
 vars:
   - name
-  - project_name
+version: 1.0.0

@@ -3,6 +3,6 @@ bricks:
   # Uncomment the following lines to import
   # a brick from a remote git url.
   flutter-feature:
-    git:
-      url: https://github.com/mfrischbutter/mason.git
-      path: bricks/flutter/feature
+    # git:
+    #   url: https://github.com/mfrischbutter/mason.git
+    path: bricks/flutter/feature
