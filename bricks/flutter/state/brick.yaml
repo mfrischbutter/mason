@@ -1,0 +1,5 @@
+name: flutter-state
+description: Create a state based on freezed package
+vars:
+  - name
+version: 1.0.0

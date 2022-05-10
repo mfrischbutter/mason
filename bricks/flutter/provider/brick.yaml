@@ -1,0 +1,5 @@
+name: flutter-provider
+description: Create a provider based on flutter riverpod hooks package
+vars:
+  - name
+version: 1.0.0

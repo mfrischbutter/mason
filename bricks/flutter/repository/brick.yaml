@@ -1,0 +1,5 @@
+name: flutter-repository
+description: Create a repository
+vars:
+  - name
+version: 1.0.0
