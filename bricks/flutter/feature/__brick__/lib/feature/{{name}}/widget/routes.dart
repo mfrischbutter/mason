@@ -1,3 +1,3 @@
-final {{#camelCase}}{{name}}{{/camelCase}}Router = AutoRoute(
+final {{#camelCase}}{{name}}{{/camelCase}}Route = AutoRoute(
   path: '/{{#snakeCase}}{{name}}{{/snakeCase}}',
 );
